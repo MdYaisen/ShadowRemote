@@ -1,0 +1,8 @@
+{
+  "inject": [
+    "setAimMode('body')",
+    "setLockOn(true)",
+    "applySensitivity(0.8)",
+    "triggerHold()"
+  ]
+}
